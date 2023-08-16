@@ -1,5 +1,0 @@
-{{#user}
-Name: Rohan
-Skills: JS,DSA,C++,REACT JS,HTML,CSS,BOOTSTRAP
-Email: Rohanmali.2002@gmail.com
-{{/user}}
